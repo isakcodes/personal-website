@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: light
 
 plugins:
@@ -48,22 +48,29 @@ projects:
 
 topics:
 
-  - name: Deep Learning
-    web_url: https://github.com/topics/deep-learning
-    image_url: https://www.math.purdue.edu/~nwinovic/figures/deep_icon_alt.png
+  - name: Data Engineering
+    web_url: https://github.com/topics/data-engineering
+    image_url: http://wfarm2.dataknet.com/static/resources/icons/set113/52641ba2.png
 
   - name: Rust
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
 
-  - name: TensorFlow
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+  - name: Pytorch
+    web_url: https://github.com/topics/pytorch
+    image_url: https://pytorch.org/assets/images/pytorch-logo.png
 
-  - name: Amazon Web Services
-    web_url: https://github.com/topics/aws
-    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+  - name: ML Ops / Production pipelines
+    web_url: https://github.com/topics/ml-ops
+    image_url: https://www.contentcaptureservices.co.uk/wp-content/uploads/2018/11/Machine_Learning-300x300.png
 
-  - name: Ansible
-    web_url: https://github.com/topics/ansible
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png
+  - name: Philosophy and logic
+    web_url: https://plato.stanford.edu/entries/russell-paradox/
+    image_url: https://cdn0.iconfinder.com/data/icons/network-and-communication-1-8/66/87-512.png
+
+  - name: Investing and Algorithmic Trading
+    web_url: https://www.investopedia.com/terms/m/macd.asp
+    image_url: https://cdn.onlinewebfonts.com/svg/img_547960.png
+
+thoughts:
+
