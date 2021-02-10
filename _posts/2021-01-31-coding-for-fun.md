@@ -49,15 +49,5 @@ I just cloned the default Jekyll template for Github pages and got started. I th
 - Java-based algo-trading suite for playing with some RNN-based time series models. Building it with a friend who is quite junior and the idea is to eventually hook it up to Nordnet's API and try our luck with some trading algorithms. It obviously won't actually make us rich, but still a fun project.
 - And a few others which are on hold for now.
 
-## FREE IDEAS HERE! 
-
-**come grab some**
-
-I'll share some ideas here for small-scope coding projects. Ideally ones that someone with a decent coding competence could finish in reasonable time. Ideally in order and within an expected time investment interval of 4 hours to 2 weeks. If I know a good tutorial, I'll insert a link to it.
-
-Please steal one or two and then claim it as your own without giving any credit. Just promise you'll actually start it.
- 
-- Twitter clone in Vue (A friend of mine did this in React and got hired because of it + his bachelors in CS)
-- A Jekyll blog kind of like this one (if you like mine just take it from my github)
-- **Todo:** Add more here... (yup, this is the MVP you're looking at)
+Isak
 

@@ -12,3 +12,5 @@ Please steal one or two and then claim it as your own without giving any credit.
 - A Jekyll blog kind of like this one (if you like mine just take it from my github)
 - **Todo:** Add more here... (yup, this is the MVP you're looking at)
 
+Isak
+
