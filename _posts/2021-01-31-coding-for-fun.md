@@ -41,7 +41,7 @@ By staying curious and keen on trying things, you might eventually find a projec
 
 It has taken me a few years to get to a point where I actually feel comfortable starting a coding project from scratch. But it gets easier each year, as the things you learn compound. Lately I've gotten better mainly at limiting my scope. Just starting with a Minimum Viable Product increases the odds that I (beyond finishing) actually decide to launch it publicly. This website is one example. I waited for a long time to code a site from scratch, before realizing I could just launch something and change it later if I feel it's not technical enough or whatever. Basically the core idea of being *Agile*.
 
-I just cloned the default Jekyll template for Github pages and got started. I think a lot people (including people far more talented than I) make the mistake of waiting to show their work until it reaches perfection. Which probably never happens with most of what people start tinkering with.
+I just cloned the default Jekyll template for Github pages and got started. I think a lot people (including people far more talented than I) make the mistake of waiting to show their work until it reaches perfection or they have that pristine commit history. Those kinds of things really never happen with most of what people start tinkering with.
 
 ### Currently working on
  
