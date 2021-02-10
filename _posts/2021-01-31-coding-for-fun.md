@@ -39,7 +39,7 @@ By staying curious and keen on trying things, you might eventually find a projec
 
 ## So how have I been doing?
 
-It has taken me a few years to get to a point where I actually feel comfortable starting a coding project from scratch. But it gets easier each year, as the things you learn compound. Lately I've gotten better mainly at limiting my scope. Just starting with a Minimum Viable Product increases the odds that I (beyond finishing) actually decide to launch it publicly. This website is one example. I waited for a long time to code a site from scratch, before realizing I could just launch something and change it later if I feel it's not technical enough or whatever.
+It has taken me a few years to get to a point where I actually feel comfortable starting a coding project from scratch. But it gets easier each year, as the things you learn compound. Lately I've gotten better mainly at limiting my scope. Just starting with a Minimum Viable Product increases the odds that I (beyond finishing) actually decide to launch it publicly. This website is one example. I waited for a long time to code a site from scratch, before realizing I could just launch something and change it later if I feel it's not technical enough or whatever. Basically the core idea of being *Agile*.
 
 I just cloned the default Jekyll template for Github pages and got started. I think a lot people (including people far more talented than I) make the mistake of waiting to show their work until it reaches perfection. Which probably never happens with most of what people start tinkering with.
 
@@ -49,15 +49,5 @@ I just cloned the default Jekyll template for Github pages and got started. I th
 - Java-based algo-trading suite for playing with some RNN-based time series models. Building it with a friend who is quite junior and the idea is to eventually hook it up to Nordnet's API and try our luck with some trading algorithms. It obviously won't actually make us rich, but still a fun project.
 - And a few others which are on hold for now.
 
-## FREE IDEAS HERE! 
-
-**come grab some**
-
-I'll share some ideas here for small-scope coding projects. Ideally ones that someone with a decent coding competence could finish in reasonable time. Ideally in order and within an expected time investment interval of 4 hours to 2 weeks. If I know a good tutorial, I'll insert a link to it.
-
-Please steal one or two and then claim it as your own without giving any credit. Just promise you'll actually start it.
- 
-- Twitter clone in Vue (A friend of mine did this in React and got hired because of it + his bachelors in CS)
-- A Jekyll blog kind of like this one (if you like mine just take it from my github)
-- **Todo:** Add more here... (yup, this is the MVP you're looking at)
+Isak
 
